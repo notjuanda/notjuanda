@@ -1,13 +1,13 @@
-# Juan David Viveros 👋
+# Juan David Viveros
 
 Desarrollador full stack en Santa Cruz de la Sierra, Bolivia.
 Me gusta construir sistemas que se usan todos los días.
 
 ## Qué estoy haciendo
 
-- 🏢 **Mencargo:** plataforma para comunidades residenciales (NestJS, Angular, Ionic)
-- 🥝 **[Kiwi Finance](https://kiwifinance.lat):** gestión para restaurantes y comercios
-- 🔌 **[wordpress-mcp](https://github.com/notjuanda/wordpress-mcp):** servidor MCP para administrar WordPress desde Claude
+- **Mencargo:** plataforma para comunidades residenciales (NestJS, Angular, Ionic)
+- **[Kiwi Finance](https://kiwifinance.lat):** gestión para restaurantes y comercios
+- **[wordpress-mcp](https://github.com/notjuanda/wordpress-mcp):** servidor MCP para administrar WordPress desde Claude
 
 ## Stack
 
