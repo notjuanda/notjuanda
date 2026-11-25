@@ -20,4 +20,13 @@ Me gusta construir sistemas que se usan todos los días.
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+## Actividad
+
+<p>
+  <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=notjuanda&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=notjuanda&hide_border=true" />
+</p>
+
+<img alt="Gráfico de contribuciones" src="https://github-readme-activity-graph.vercel.app/graph?username=notjuanda&hide_border=true&area=true" width="100%" />
+
 [LinkedIn](https://www.linkedin.com/in/juan-david-viveros-chavez-78b159287) · juandavidviveroschavez03@gmail.com
